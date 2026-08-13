@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hakoshige.mineralbox",
+      "sha256_cert_fingerprints": [
+        "20:93:10:45:97:2F:56:08:83:C2:B6:DF:92:9D:2D:92:29:24:9A:5C:3E:5B:5A:69:74:B5:05:CD:56:46:94:45",
+        "04:F0:5E:3D:8F:E8:FA:E8:34:E3:FB:AF:60:BD:90:C1:04:04:DD:0F:21:E2:2E:2C:8C:4D:51:F9:D5:07:30:23"
+      ]
+    }
+  }
+]
